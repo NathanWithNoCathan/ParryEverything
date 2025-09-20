@@ -1,0 +1,3 @@
+displayName = Parry Everything
+author = NathanCathan
+version = 0.1
