@@ -1,2 +1,8 @@
-# This file will automatically update with entries for new content after a build and reload.
+Keybinds.Parry.DisplayName: Parry
 
+Items: {
+	ParryCharm: {
+		DisplayName: Parry Charm
+		Tooltip: Allows you to parry enemies
+	}
+}
